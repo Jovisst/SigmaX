@@ -1,0 +1,17 @@
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\bin\Debug\net8.0-windows\SigmaX2.exe
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\bin\Debug\net8.0-windows\SigmaX2.deps.json
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\bin\Debug\net8.0-windows\SigmaX2.runtimeconfig.json
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\bin\Debug\net8.0-windows\SigmaX2.dll
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\bin\Debug\net8.0-windows\SigmaX2.pdb
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.Form1.resources
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.Properties.Resources.resources
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.csproj.GenerateResource.cache
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.AssemblyInfoInputs.cache
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.AssemblyInfo.cs
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.csproj.CoreCompileInputs.cache
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.dll
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\refint\SigmaX2.dll
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.pdb
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\SigmaX2.genruntimeconfig.cache
+C:\Users\Zakarias\source\repos\SigmaX2\SigmaX2\obj\Debug\net8.0-windows\ref\SigmaX2.dll
